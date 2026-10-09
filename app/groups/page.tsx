@@ -27,7 +27,7 @@ export default function GroupsPage() {
   }
 
   const handleJoinTelegram = () => {
-    window.open("https://t.me/bluepaylimited0x")
+    window.open("https://t.me/+ePEUxy3LVG40Njdk")
   }
 
   if (!userData) {
